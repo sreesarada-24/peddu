@@ -2,4 +2,7 @@ hello hai
 bye bye
 this is bali
 i got this file with peddu repository
+ihave made some changes in this file 
+want to add n committ again 
+:wq!
 
